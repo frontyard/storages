@@ -1,1 +1,7 @@
 **/report.xml
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+.history
+simplefs/large_value_test

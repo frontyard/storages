@@ -15,6 +15,8 @@ http://localhost {
             simplefs {
                 configuration {
                     size 100000
+                    directory_size 1GB
+                    disable_compression false
                 }
             }
         }
